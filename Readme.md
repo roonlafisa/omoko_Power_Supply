@@ -2,8 +2,8 @@
 
 ## About the PCB
 A power supply board for the personal projects. It is a 4-layer board that provides 5V and 3.3 outputs.
-![plot](./docs/TopLayer.png)
-![plot](./docs/BottomLayer.png)
+![plot](docs/TopLayer.PNG)
+![plot](docs/BottomLayer.PNG)
 
 ## Requirements
 1. Input: 6.5V-25.5V DC.
