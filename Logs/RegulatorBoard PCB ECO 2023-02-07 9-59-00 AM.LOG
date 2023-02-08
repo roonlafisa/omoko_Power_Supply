@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=C203-1
+Removed Pin From Net: NetName=VIN_CLEAN_SENSED Pin=C203-2
+Change Component DesignItemId : Designator=C201 Old DesignItemId=CL10B104KB8NNNC New DesignItemId=GRM188R61A226ME15D
+Change Component Comment : Designator=C201 Old Comment=CL10B104KB8NNNC New Comment=GRM188R61A226ME15D
+Change Component Designator: OldDesignator=C202 NewDesignator=C203
+Change Component Designator: OldDesignator=R203 NewDesignator=R202
+Change Component Designator: OldDesignator=R204 NewDesignator=R203
+Change Component Designator: OldDesignator=R205 NewDesignator=R204
+Change Component Description : Designator=C201 Old Description=Cap Ceramic 0.1uF 50V 0603 New Description=Cap Ceramic 22uF 10V 0603
+Added Component: Designator=C202(CAP_0603)
+Added Component: Designator=J200(KEYSTONE_5002)
+Added Component: Designator=J300(KEYSTONE_5002)
+Added Component: Designator=J400(KEYSTONE_5002)
+Added Pin To Net: NetName=GND Pin=C201-1
+Added Pin To Net: NetName=VIN_CLEAN_SENSED Pin=C201-2
+Added Pin To Net: NetName=5V_BUCK Pin=J200-1
+Added Pin To Net: NetName=3V3_LDO Pin=J300-1
+Added Pin To Net: NetName=5V_LDO Pin=J400-1
+Added Member To Class: ClassName=2_5VSwithcingRegulator Member=Component J200 5002
+Added Member To Class: ClassName=3_3V3LDO Member=Component J300 5002
+Added Member To Class: ClassName=4_5VLDO Member=Component J400 5002

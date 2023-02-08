@@ -1,0 +1,215 @@
+Removed Member From Class: ClassName=5_AnalogSense Member=D4
+Removed Member From Class: ClassName=5_AnalogSense Member=R53
+Removed Member From Class: ClassName=5_AnalogSense Member=R57
+Removed Member From Class: ClassName=5_AnalogSense Member=R74
+Removed Member From Class: ClassName=5_AnalogSense Member=R77
+Change Component Designator: OldDesignator=* NewDesignator=*500
+Change Component Designator: OldDesignator=* NewDesignator=*501
+Change Component Designator: OldDesignator=C1 NewDesignator=C300
+Change Component Designator: OldDesignator=C2 NewDesignator=C301
+Change Component Designator: OldDesignator=C3 NewDesignator=C302
+Change Component Designator: OldDesignator=C4 NewDesignator=C400
+Change Component Designator: OldDesignator=C5 NewDesignator=C401
+Change Component Designator: OldDesignator=C6 NewDesignator=C204
+Change Component Designator: OldDesignator=C7 NewDesignator=C201
+Change Component Designator: OldDesignator=C8 NewDesignator=C205
+Change Component Designator: OldDesignator=C9 NewDesignator=C210
+Change Component Designator: OldDesignator=C10 NewDesignator=C206
+Change Component Designator: OldDesignator=C11 NewDesignator=C211
+Change Component Designator: OldDesignator=C12 NewDesignator=C207
+Change Component Designator: OldDesignator=C13 NewDesignator=C208
+Change Component Designator: OldDesignator=C14 NewDesignator=C209
+Change Component Designator: OldDesignator=C15 NewDesignator=C202
+Change Component Designator: OldDesignator=C16 NewDesignator=C212
+Change Component Designator: OldDesignator=C17 NewDesignator=C203
+Change Component Designator: OldDesignator=C18 NewDesignator=C200
+Change Component Designator: OldDesignator=C19 NewDesignator=C402
+Change Component Designator: OldDesignator=C20 NewDesignator=C500
+Change Component Designator: OldDesignator=C21 NewDesignator=C502
+Change Component Designator: OldDesignator=C22 NewDesignator=C503
+Change Component Designator: OldDesignator=C23 NewDesignator=C504
+Change Component Designator: OldDesignator=C24 NewDesignator=C505
+Change Component Designator: OldDesignator=C301 NewDesignator=C501
+Change Component Designator: OldDesignator=D3 NewDesignator=D100
+Change Component Designator: OldDesignator=D4 NewDesignator=D200
+Change Component Designator: OldDesignator=D5 NewDesignator=D201
+Change Component Designator: OldDesignator=D6 NewDesignator=D202
+Change Component Designator: OldDesignator=D8 NewDesignator=D101
+Change Component Designator: OldDesignator=D9 NewDesignator=D102
+Change Component Designator: OldDesignator=D10 NewDesignator=D300
+Change Component Designator: OldDesignator=D11 NewDesignator=D400
+Change Component Designator: OldDesignator=D601 NewDesignator=D600
+Change Component Designator: OldDesignator=D601 NewDesignator=D602
+Change Component Designator: OldDesignator=D601 NewDesignator=D603
+Change Component Designator: OldDesignator=H601 NewDesignator=H600
+Change Component Designator: OldDesignator=H602 NewDesignator=H601
+Change Component Designator: OldDesignator=H603 NewDesignator=H602
+Change Component Designator: OldDesignator=H604 NewDesignator=H603
+Change Component Designator: OldDesignator=J5 NewDesignator=J704
+Change Component Designator: OldDesignator=J304 NewDesignator=J500
+Change Component Designator: OldDesignator=J304 NewDesignator=J501
+Change Component Designator: OldDesignator=J304 NewDesignator=J502
+Change Component Designator: OldDesignator=J304 NewDesignator=J503
+Change Component Designator: OldDesignator=L1 NewDesignator=L200
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q100
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q101
+Change Component Designator: OldDesignator=R1 NewDesignator=R100
+Change Component Designator: OldDesignator=R2 NewDesignator=R101
+Change Component Designator: OldDesignator=R3 NewDesignator=R300
+Change Component Designator: OldDesignator=R4 NewDesignator=R301
+Change Component Designator: OldDesignator=R5 NewDesignator=R302
+Change Component Designator: OldDesignator=R6 NewDesignator=R205
+Change Component Designator: OldDesignator=R7 NewDesignator=R203
+Change Component Designator: OldDesignator=R8 NewDesignator=R200
+Change Component Designator: OldDesignator=R9 NewDesignator=R204
+Change Component Designator: OldDesignator=R10 NewDesignator=R201
+Change Component Designator: OldDesignator=R11 NewDesignator=R303
+Change Component Designator: OldDesignator=R12 NewDesignator=R202
+Change Component Designator: OldDesignator=R13 NewDesignator=R304
+Change Component Designator: OldDesignator=R14 NewDesignator=R400
+Change Component Designator: OldDesignator=R15 NewDesignator=R401
+Change Component Designator: OldDesignator=R16 NewDesignator=R402
+Change Component Designator: OldDesignator=R17 NewDesignator=R403
+Change Component Designator: OldDesignator=R18 NewDesignator=R404
+Change Component Designator: OldDesignator=R19 NewDesignator=R500
+Change Component Designator: OldDesignator=R20 NewDesignator=R501
+Change Component Designator: OldDesignator=R21 NewDesignator=R502
+Change Component Designator: OldDesignator=R22 NewDesignator=R503
+Change Component Designator: OldDesignator=R23 NewDesignator=R504
+Change Component Designator: OldDesignator=R24 NewDesignator=R505
+Change Component Designator: OldDesignator=R25 NewDesignator=R506
+Change Component Designator: OldDesignator=R26 NewDesignator=R507
+Change Component Designator: OldDesignator=R27 NewDesignator=R508
+Change Component Designator: OldDesignator=R28 NewDesignator=R509
+Change Component Designator: OldDesignator=R29 NewDesignator=R510
+Change Component Designator: OldDesignator=R30 NewDesignator=R513
+Change Component Designator: OldDesignator=R31 NewDesignator=R514
+Change Component Designator: OldDesignator=R32 NewDesignator=R515
+Change Component Designator: OldDesignator=R33 NewDesignator=R516
+Change Component Designator: OldDesignator=R34 NewDesignator=R519
+Change Component Designator: OldDesignator=R35 NewDesignator=R520
+Change Component Designator: OldDesignator=R36 NewDesignator=R521
+Change Component Designator: OldDesignator=R37 NewDesignator=R522
+Change Component Designator: OldDesignator=R38 NewDesignator=R523
+Change Component Designator: OldDesignator=R39 NewDesignator=R600
+Change Component Designator: OldDesignator=R40 NewDesignator=R601
+Change Component Designator: OldDesignator=R41 NewDesignator=R602
+Change Component Designator: OldDesignator=R604 NewDesignator=R603
+Change Component Designator: OldDesignator=R605 NewDesignator=R604
+Change Component Designator: OldDesignator=U5 NewDesignator=U500
+Added Component: Designator=D500(DIODE_DO-214AC)
+Added Component: Designator=D501(DIODE_DO-214AC)
+Added Component: Designator=D502(DIODE_DO-214AC)
+Added Component: Designator=D503(DIODE_DO-214AC)
+Added Component: Designator=R511(RES_0603)
+Added Component: Designator=R512(RES_0603)
+Added Component: Designator=R517(RES_0603)
+Added Component: Designator=R518(RES_0603)
+Added Pin To Net: NetName=GND Pin=D500-2
+Added Pin To Net: NetName=GND Pin=D501-2
+Added Pin To Net: NetName=GND Pin=D502-2
+Added Pin To Net: NetName=GND Pin=D503-2
+Change Net Name : Old Net Name=Net*_2 New Net Name=Net*500_2
+Change Net Name : Old Net Name=NetD6_A New Net Name=NetD202_A
+Change Net Name : Old Net Name=NetD9_1 New Net Name=NetD102_1
+Change Net Name : Old Net Name=NetD9_2 New Net Name=NetD102_2
+Change Net Name : Old Net Name=NetD601_A New Net Name=NetD603_A
+Change Net Name : Old Net Name=NetH603_1 New Net Name=NetH602_1
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=NetJ704_1
+Change Net Name : Old Net Name=NetJ5_2 New Net Name=NetJ704_2
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR301_1
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR203_1
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR200_1
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR401_1
+Change Net Name : Old Net Name=NetR21_2 New Net Name=NetR502_2
+Change Net Name : Old Net Name=NetR26_2 New Net Name=NetR507_2
+Change Net Name : Old Net Name=NetR31_2 New Net Name=NetR514_2
+Change Net Name : Old Net Name=NetR36_2 New Net Name=NetR521_2
+Added Pin To Net: NetName=Net*501_2 Pin=*501-2
+Added Pin To Net: NetName=Net*501_2 Pin=U500-12
+Added Net: Name=Net*501_2
+Added Pin To Net: NetName=NetC200_1 Pin=C200-1
+Added Net: Name=NetC200_1
+Added Pin To Net: NetName=NetC200_2 Pin=C200-2
+Added Pin To Net: NetName=NetC200_2 Pin=D200-1
+Added Pin To Net: NetName=NetC200_2 Pin=L200-1
+Added Net: Name=NetC200_2
+Added Pin To Net: NetName=NetC502_1 Pin=C502-1
+Added Pin To Net: NetName=NetC502_1 Pin=J500-1
+Added Pin To Net: NetName=NetC502_1 Pin=R511-2
+Added Net: Name=NetC502_1
+Added Pin To Net: NetName=NetC503_1 Pin=C503-1
+Added Pin To Net: NetName=NetC503_1 Pin=J502-1
+Added Pin To Net: NetName=NetC503_1 Pin=R512-2
+Added Net: Name=NetC503_1
+Added Pin To Net: NetName=NetC504_1 Pin=C504-1
+Added Pin To Net: NetName=NetC504_1 Pin=J501-1
+Added Pin To Net: NetName=NetC504_1 Pin=R517-2
+Added Net: Name=NetC504_1
+Added Pin To Net: NetName=NetC505_1 Pin=C505-1
+Added Pin To Net: NetName=NetC505_1 Pin=J503-1
+Added Pin To Net: NetName=NetC505_1 Pin=R518-2
+Added Net: Name=NetC505_1
+Added Pin To Net: NetName=NetD500_1 Pin=D500-1
+Added Pin To Net: NetName=NetD500_1 Pin=R512-1
+Added Pin To Net: NetName=NetD500_1 Pin=R516-2
+Added Net: Name=NetD500_1
+Added Pin To Net: NetName=NetD501_1 Pin=D501-1
+Added Pin To Net: NetName=NetD501_1 Pin=R504-2
+Added Pin To Net: NetName=NetD501_1 Pin=R511-1
+Added Net: Name=NetD501_1
+Added Pin To Net: NetName=NetD502_1 Pin=D502-1
+Added Pin To Net: NetName=NetD502_1 Pin=R518-1
+Added Pin To Net: NetName=NetD502_1 Pin=R523-2
+Added Net: Name=NetD502_1
+Added Pin To Net: NetName=NetD503_1 Pin=D503-1
+Added Pin To Net: NetName=NetD503_1 Pin=R509-2
+Added Pin To Net: NetName=NetD503_1 Pin=R517-1
+Added Net: Name=NetD503_1
+Added Pin To Net: NetName=NetD600_A Pin=D600-A
+Added Pin To Net: NetName=NetD600_A Pin=R600-2
+Added Net: Name=NetD600_A
+Added Pin To Net: NetName=NetD601_A Pin=D601-A
+Added Pin To Net: NetName=NetD601_A Pin=R601-2
+Added Net: Name=NetD601_A
+Added Pin To Net: NetName=NetD602_A Pin=D602-A
+Added Pin To Net: NetName=NetD602_A Pin=R602-2
+Added Net: Name=NetD602_A
+Added Pin To Net: NetName=NetQ101_4 Pin=Q101-4
+Added Net: Name=NetQ101_4
+Added Pin To Net: NetName=NetR100_2 Pin=R100-2
+Added Net: Name=NetR100_2
+Added Pin To Net: NetName=NetR201_1 Pin=R201-1
+Added Net: Name=NetR201_1
+Added Pin To Net: NetName=NetR300_1 Pin=R300-1
+Added Pin To Net: NetName=NetR300_1 Pin=R303-2
+Added Net: Name=NetR300_1
+Added Pin To Net: NetName=NetR302_2 Pin=R302-2
+Added Pin To Net: NetName=NetR302_2 Pin=R304-2
+Added Net: Name=NetR302_2
+Added Pin To Net: NetName=NetR400_1 Pin=R400-1
+Added Pin To Net: NetName=NetR400_1 Pin=R403-2
+Added Net: Name=NetR400_1
+Added Pin To Net: NetName=NetR501_2 Pin=R501-2
+Added Net: Name=NetR501_2
+Added Pin To Net: NetName=NetR506_2 Pin=R506-2
+Added Net: Name=NetR506_2
+Added Pin To Net: NetName=NetR510_2 Pin=R510-2
+Added Net: Name=NetR510_2
+Added Pin To Net: NetName=NetR520_2 Pin=R520-2
+Added Net: Name=NetR520_2
+Added Member To Class: ClassName=5_AnalogSense Member=Component *500 3-pin selection 0603
+Added Member To Class: ClassName=5_AnalogSense Member=Component D500 BZT52C2V7S-7-F
+Added Member To Class: ClassName=5_AnalogSense Member=Component D501 BZT52C2V7S-7-F
+Added Member To Class: ClassName=5_AnalogSense Member=Component D502 BZT52C2V7S-7-F
+Added Member To Class: ClassName=5_AnalogSense Member=Component D503 BZT52C2V7S-7-F
+Added Member To Class: ClassName=6_Auxilaries Member=Component D600 0603 Blue
+Added Member To Class: ClassName=6_Auxilaries Member=Component D602 0603 Blue
+Added Member To Class: ClassName=6_Auxilaries Member=Component D603 0603 Blue
+Added Member To Class: ClassName=5_AnalogSense Member=Component J500 5002
+Added Member To Class: ClassName=5_AnalogSense Member=Component J501 5002
+Added Member To Class: ClassName=5_AnalogSense Member=Component J502 5002
+Added Member To Class: ClassName=5_AnalogSense Member=Component R511 ERJ-3EKF2101V
+Added Member To Class: ClassName=5_AnalogSense Member=Component R512 ERJ-3EKF2101V
+Added Member To Class: ClassName=5_AnalogSense Member=Component R517 ERJ-3EKF2101V
+Added Member To Class: ClassName=5_AnalogSense Member=Component R518 ERJ-3EKF2101V

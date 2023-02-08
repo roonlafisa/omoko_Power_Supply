@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=R204 Old DesignItemId=ERA3AEB4021V New DesignItemId=P3.3KGDKR-ND
+Change Component DesignItemId : Designator=R202 Old DesignItemId=ERJ3EKF3602V New DesignItemId=ERJ3GEYJ103V
+Change Component Comment : Designator=R204 Old Comment=ERA3AEB4021V New Comment=P3.3KGDKR-ND
+Change Component Comment : Designator=R202 Old Comment=ERJ3EKF3602V New Comment=ERJ3GEYJ103V
+Change Component Description : Designator=R204 Old Description=Res 4.02KOhm 1/10W 0603 New Description=Res 3.3KOhms 1/10W 0603
+Change Component Description : Designator=R202 Old Description=Res 36KOhm 1/10W 0603 New Description=Res 10KOhms 1/10W 0603

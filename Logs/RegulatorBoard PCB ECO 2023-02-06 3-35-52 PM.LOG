@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=3_3V3LDO Member=C501
+Added Component: Designator=U100(HOTSWAP_SOT-6)
+Added Pin To Net: NetName=NetD102_1 Pin=U100-1
+Added Pin To Net: NetName=VIN_CLEAN Pin=U100-2
+Added Pin To Net: NetName=NetQ101_4 Pin=U100-3
+Added Pin To Net: NetName=GND Pin=U100-4
+Added Pin To Net: NetName=NetR100_2 Pin=U100-6
+Change Net Name : Old Net Name=Net*500_2 New Net Name=ADC_A1
+Change Net Name : Old Net Name=Net*501_2 New Net Name=ADC_A0
+Change Net Name : Old Net Name=NetC502_1 New Net Name=ADC_IN0
+Change Net Name : Old Net Name=NetC503_1 New Net Name=ADC_IN2
+Change Net Name : Old Net Name=NetC504_1 New Net Name=ADC_IN1
+Change Net Name : Old Net Name=NetC505_1 New Net Name=ADC_IN3
+Change Net Name : Old Net Name=NetD500_1 New Net Name=OPAMP_OUT2
+Change Net Name : Old Net Name=NetD501_1 New Net Name=OPAMP_OUT0
+Change Net Name : Old Net Name=NetD502_1 New Net Name=OPAMP_OUT3
+Change Net Name : Old Net Name=NetD503_1 New Net Name=OPAMP_OUT1
+Change Net Name : Old Net Name=NetJ704_1 New Net Name=ADC_SCL
+Change Net Name : Old Net Name=NetJ704_2 New Net Name=ADC_SDA
+Change Net Name : Old Net Name=NetR203_1 New Net Name=5VREG_EN
+Change Net Name : Old Net Name=NetR302_2 New Net Name=3V3REG_EN
+Added Member To Class: ClassName=3_3V3LDO Member=Component C301 GRM188R61E106KA73D
+Added Member To Class: ClassName=6_Auxilaries Member=Component D601 0603 Blue
+Added Member To Class: ClassName=6_Auxilaries Member=Component H603 M3 not plated
+Added Member To Class: ClassName=6_Auxilaries Member=Component R604 ERJ3GEYJ103V
+Added Member To Class: ClassName=1_InputPowerProtection Member=Component U100 MAX5903NNEUT+T

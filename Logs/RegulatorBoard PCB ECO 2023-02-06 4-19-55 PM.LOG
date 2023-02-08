@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=D202-K
+Removed Pin From Net: NetName=5V_BUCK Pin=R202-2
+Removed Member From Class: ClassName=2_5VSwithcingRegulator Member=D202
+Removed Member From Class: ClassName=2_5VSwithcingRegulator Member=R202

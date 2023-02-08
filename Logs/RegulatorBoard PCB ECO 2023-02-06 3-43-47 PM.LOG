@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=3V3_LDO Pin=U300-1
+Removed Pin From Net: NetName=NetR300_1 Pin=U300-2
+Removed Pin From Net: NetName=GND Pin=U300-3
+Removed Pin From Net: NetName=3V3REG_EN Pin=U300-5
+Removed Pin From Net: NetName=5V_BUCK Pin=U300-8
+Removed Pin From Net: NetName=GND Pin=U300-EPAD
+Removed Member From Class: ClassName=3_3V3LDO Member=C501
+Removed Member From Class: ClassName=3_3V3LDO Member=U300
+Added Component: Designator=U?(REG_SOP8_SOIC8_EPAD)
+Added Pin To Net: NetName=3V3_LDO Pin=U?-1
+Added Pin To Net: NetName=NetR300_1 Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=3V3REG_EN Pin=U?-5
+Added Pin To Net: NetName=5V_BUCK Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-EPAD
+Added Member To Class: ClassName=3_3V3LDO Member=Component C301 GRM188R61E106KA73D
+Added Member To Class: ClassName=6_Auxilaries Member=Component D601 0603 Blue
+Added Member To Class: ClassName=6_Auxilaries Member=Component H603 M3 not plated
+Added Member To Class: ClassName=6_Auxilaries Member=Component R604 ERJ3GEYJ103V
+Added Member To Class: ClassName=3_3V3LDO Member=Component U? BD00HC5MEFJ-ME2

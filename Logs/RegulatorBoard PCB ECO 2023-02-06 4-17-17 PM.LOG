@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=GND Pin=C202-1
+Removed Pin From Net: NetName=5V_BUCK Pin=C202-2
+Removed Pin From Net: NetName=GND Pin=C205-1
+Removed Pin From Net: NetName=5V_BUCK Pin=C205-2
+Removed Pin From Net: NetName=GND Pin=C206-1
+Removed Pin From Net: NetName=5V_BUCK Pin=C206-2
+Removed Pin From Net: NetName=GND Pin=C208-1
+Removed Pin From Net: NetName=5V_BUCK Pin=C208-2
+Removed Pin From Net: NetName=GND Pin=C209-1
+Removed Pin From Net: NetName=5V_BUCK Pin=C209-2
+Removed Pin From Net: NetName=GND Pin=C210-1
+Removed Pin From Net: NetName=5V_BUCK Pin=C210-2
+Removed Pin From Net: NetName=GND Pin=C211-1
+Removed Pin From Net: NetName=5V_BUCK Pin=C211-2
+Removed Pin From Net: NetName=GND Pin=C212-1
+Removed Pin From Net: NetName=5V_BUCK Pin=C212-2
+Removed Member From Class: ClassName=2_5VSwithcingRegulator Member=C202
+Removed Member From Class: ClassName=2_5VSwithcingRegulator Member=C205
+Removed Member From Class: ClassName=2_5VSwithcingRegulator Member=C206
+Removed Member From Class: ClassName=2_5VSwithcingRegulator Member=C208
+Removed Member From Class: ClassName=2_5VSwithcingRegulator Member=C209
+Removed Member From Class: ClassName=2_5VSwithcingRegulator Member=C210
+Removed Member From Class: ClassName=2_5VSwithcingRegulator Member=C211
+Removed Member From Class: ClassName=2_5VSwithcingRegulator Member=C212
+Removed Member From Class: ClassName=3_3V3LDO Member=C501
+Added Component: Designator=C?(CAP_EEEFKE181XSP)
+Added Pin To Net: NetName=5V_BUCK Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetR201_1 Pin=R204-2
+Added Member To Class: ClassName=3_3V3LDO Member=Component C301 GRM188R61E106KA73D
+Added Member To Class: ClassName=2_5VSwithcingRegulator Member=Component C? EEE-FKE181XSP
+Added Member To Class: ClassName=6_Auxilaries Member=Component D601 0603 Blue
+Added Member To Class: ClassName=6_Auxilaries Member=Component H603 M3 not plated
+Added Member To Class: ClassName=6_Auxilaries Member=Component R604 ERJ3GEYJ103V

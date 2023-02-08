@@ -1,0 +1,31 @@
+Removed Member From Class: ClassName=3_3V3LDO Member=C501
+Added Component: Designator=U200(REG_SOP8_SOIC8_EPAD)
+Added Component: Designator=U300(REG_SOP8_SOIC8_EPAD)
+Added Component: Designator=U400(REG_SOP8_SOIC8_EPAD)
+Added Pin To Net: NetName=NetC200_1 Pin=U200-1
+Added Pin To Net: NetName=GND Pin=U200-3
+Added Pin To Net: NetName=NetR201_1 Pin=U200-4
+Added Pin To Net: NetName=NetR203_1 Pin=U200-5
+Added Pin To Net: NetName=GND Pin=U200-6
+Added Pin To Net: NetName=VIN_CLEAN_SENSED Pin=U200-7
+Added Pin To Net: NetName=NetC200_2 Pin=U200-8
+Added Pin To Net: NetName=GND Pin=U200-EPAD
+Added Pin To Net: NetName=3V3_LDO Pin=U300-1
+Added Pin To Net: NetName=NetR300_1 Pin=U300-2
+Added Pin To Net: NetName=GND Pin=U300-3
+Added Pin To Net: NetName=NetR302_2 Pin=U300-5
+Added Pin To Net: NetName=5V_BUCK Pin=U300-8
+Added Pin To Net: NetName=GND Pin=U300-EPAD
+Added Pin To Net: NetName=5V_LDO Pin=U400-1
+Added Pin To Net: NetName=NetR400_1 Pin=U400-2
+Added Pin To Net: NetName=GND Pin=U400-3
+Added Pin To Net: NetName=NetR203_1 Pin=U400-5
+Added Pin To Net: NetName=5V_BUCK Pin=U400-8
+Added Pin To Net: NetName=GND Pin=U400-EPAD
+Added Member To Class: ClassName=3_3V3LDO Member=Component C301 GRM188R61E106KA73D
+Added Member To Class: ClassName=6_Auxilaries Member=Component D601 0603 Blue
+Added Member To Class: ClassName=6_Auxilaries Member=Component H603 M3 not plated
+Added Member To Class: ClassName=6_Auxilaries Member=Component R604 ERJ3GEYJ103V
+Added Member To Class: ClassName=2_5VSwithcingRegulator Member=Component U200 ST1S14PHR
+Added Member To Class: ClassName=3_3V3LDO Member=Component U300 BD00HC5MEFJ-ME2
+Added Member To Class: ClassName=4_5VLDO Member=Component U400 BD50HC5MEFJ-ME2

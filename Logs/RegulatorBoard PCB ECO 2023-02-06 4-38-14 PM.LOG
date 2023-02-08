@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=C203 Old DesignItemId=C2012X5R1V226MT000E New DesignItemId=GRM188R61A226ME15D
+Change Component Footprint: Designator=C203 Old Footprint=CAP_0805 New Footprint=CAP_0603
+Change Component Comment : Designator=C203 Old Comment=C2012X5R1V226MT000E New Comment=GRM188R61A226ME15D
