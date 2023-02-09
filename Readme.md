@@ -1,4 +1,4 @@
-**omoko Power Supply Board**
+# omoko Power Supply Board
 
 ## About the PCB
 A power supply board for the personal projects. It is a 4-layer board that provides 5V and 3.3 outputs.
